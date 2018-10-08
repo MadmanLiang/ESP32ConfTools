@@ -1,5 +1,3 @@
-![image](https://github.com/MadmanLiang/ESP32ConfTools/blob/master/DemoShow.gif?raw=true)
-
 该工具实现Rtoy故事机功能可视化定制。针对各种故事机产品，不同的客户对于故事机的功能、及灯光、灯阵动画等需求不同，需要对每个客户单独创建项目，定制各种方案，不便于产品迭代。该工具即可解决项目重复性问题。将故事机产品的功能、灯光、灯阵动画等都做成可视化配置，当有新的产品或客户接入时，只需要使用改工具对客户需求进行配置即可。
 
 该工具可以实现配置文件解析、配置、固件打包等功能。
@@ -11,3 +9,5 @@
 打包：固件打包功能。
     
 特别说明的是灯阵动画配置模拟的是芯片灯阵功能，动画效果可以预览，生产的动画其实是一帧一帧的数据。
+
+![image](https://github.com/MadmanLiang/ESP32ConfTools/blob/master/DemoShow.gif?raw=true)
